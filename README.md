@@ -6,6 +6,8 @@ Picture this: It's 2013, and Bitcoin is still this mysterious internet money tha
 
 Fast forward to today, and they've grown into something completely different. After realizing the mining business wasn't exactly thrilling anymore, they pivoted hard in 2016 and transformed into a full-fledged cryptocurrency exchange. Smart move, honestly.
 
+<img width="1000" height="646" alt="image" src="https://github.com/user-attachments/assets/9f3e095f-37ab-4f1f-b4d0-cbb663e5c269" />
+
 Now here's what makes them interesting. They've been around long enough to survive three crypto winters—those brutal periods when everything crashes and half the exchanges disappear. Still standing after all that? That says something. They've got over 5 million registered users across 185+ countries, which is pretty impressive considering how competitive this space is.
 
 The platform isn't trying to be everything to everyone, but it covers the basics well. You can buy, sell, and trade over 200 cryptocurrencies. They were actually one of the first exchanges to let you buy Bitcoin with a credit card back in 2013, which was kind of revolutionary at the time. These days, they support multiple payment methods—credit cards, bank transfers, PayPal, Apple Pay, Google Pay, you name it.
